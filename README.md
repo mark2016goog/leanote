@@ -1,5 +1,8 @@
 # Leanote
 
+leanote是一款开源云笔记产品，使用Go的Web框架revel和MongoDB开发完成。
+
+
 [![Build Status](https://travis-ci.org/leanote/leanote.svg)](https://travis-ci.org/leanote/leanote)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/leanote/leanote?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
